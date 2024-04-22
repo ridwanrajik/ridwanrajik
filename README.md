@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Ridwan</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridwanrajik&label=Profile%20views&color=0e75b6&style=flat" alt="ridwanrajik" /> </p>
 
-- 💬 Ask me about **ASP.NET Core, JavaScript, TypeScript, and Node.js**
+- 💬 Ask me about **ASP.NET Core, JavaScript, TypeScript, React.js and Node.js**
 
 - 📫 How to reach me **ridwanraji4@gmail.com**
 
